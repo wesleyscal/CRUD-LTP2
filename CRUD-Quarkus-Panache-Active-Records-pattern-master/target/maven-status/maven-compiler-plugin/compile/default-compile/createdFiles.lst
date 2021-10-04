@@ -1,0 +1,6 @@
+br\com\unilago\ltp\Empressa\entity\Empressa.class
+META-INF\panache-archive.marker
+br\com\unilago\ltp\GreetingResource.class
+br\com\unilago\ltp\Consumidor\resource\ConsumidorResource.class
+br\com\unilago\ltp\Empressa\resource\EmpressaResource.class
+br\com\unilago\ltp\Consumidor\entity\Consumidor.class
